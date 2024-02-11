@@ -1,4 +1,4 @@
-# Data-Sciencience-Project
+# Data-Science-Project
 predicting mobile 📱 price depend on its features
 
 Project Description:
